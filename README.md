@@ -1,4 +1,4 @@
-# distributed-video-streaming
+# FloWave
 The distributed video streaming application is a system that allows large numbers of people to watch streaming video content simultaneously. It uses a variety of technologies, including Apache Kafka and Apache Cassandra for messaging and data storage, FFmpeg for encoding and streaming video content, and NGINX as a web server and load balancer to distribute traffic between different instances.
 
 The application is hosted on AWS using the Elastic Kubernetes Service (EKS), which provides an easy way to deploy and manage Kubernetes clusters for the different components of the application. The infrastructure is managed using Terraform, which allows for easy automation and management of the infrastructure.
